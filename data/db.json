@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use this",
+      "author": "Yoshi",
+      "id": "2"
+    },
+    {
+      "id": "a075",
+      "title": "Hello world",
+      "body": "How u doing?",
+      "author": "jack"
+    },
+    {
+      "id": "54d7",
+      "title": "Hello",
+      "body": "World",
+      "author": "Yoshi"
+    },
+    {
+      "id": "878c",
+      "title": "Technical Field",
+      "body": "A technical engineer provides technical or engineering support in a specific field. They continuously analyse products and processes to identify technical problems and resolve them. For example, if they are working in the IT industry, they may provide technical support for hardware and software issues.",
+      "author": "jack"
+    }
+  ]
+}
